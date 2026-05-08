@@ -34,7 +34,7 @@ Este repositório contém uma coleção de scripts Python demonstrando conceitos
 
 ## 📂 Estrutura do Projeto
 
-A pasta `python/` contém os seguintes exemplos:
+A pasta contém os seguintes exemplos:
 
 *   `01_carregar_imagem.py`: Como carregar e exibir uma imagem em uma janela.
 *   `02_webcam.py`: Acesso e manipulação de fluxo de vídeo da webcam em tempo real.
@@ -49,10 +49,9 @@ A pasta `python/` contém os seguintes exemplos:
 
 ## 🛠️ Executando os Exemplos
 
-Para rodar qualquer exemplo, navegue até a pasta `python/` e execute o script desejado:
+Para rodar qualquer exemplo, execute o script desejado:
 
 ```bash
-cd python
 python 01_carregar_imagem.py
 ```
 
