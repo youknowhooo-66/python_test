@@ -1,0 +1,21 @@
+✦ Instalação
+
+  Este projeto requer Python e utiliza um ambiente virtual. Siga estes passos:
+
+   1. Ative o ambiente virtual:
+      Navegue até a pasta raiz do projeto e execute:
+
+       * Windows:
+   1         .\.venv\Scripts\Activate.ps1
+          ou
+   1         .\.venv\Scripts\activate.bat
+
+       * macOS/Linux:
+   1         source .venv/bin/activate
+
+   2. Instale as dependências:
+      Com o ambiente virtual ativo, instale os pacotes necessários:
+
+   1     pip install opencv-python numpy
+
+  Pronto! As dependências estarão instaladas.     
